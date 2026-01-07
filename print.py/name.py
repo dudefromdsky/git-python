@@ -1,2 +1,2 @@
 print("python")
-history = "version5"
+history = "version6"
